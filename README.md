@@ -3,7 +3,7 @@
 ![alt text](public/ss.png)
 
 A modern, **Instagram/Twitter-style social media app** frontend built with **React + Vite**, **Redux Toolkit**, **Tailwind CSS v4**, and **Socket.io**.  
-This repo contains the client for **GeeksGram**, a real-time social platform with posts, likes, comments, follows, notifications, and 1:1 chat with **voice & video calls**.
+This repo contains the client for **MyGram**, a real-time social platform with posts, likes, comments, follows, notifications, and 1:1 chat with **voice & video calls**.
 
 [![Live Demo](https://img.shields.io/badge/demo-geeksgram.vercel.app-000000?style=for-the-badge&logo=vercel)](https://geeksgram-by-prateet.vercel.app/)
 ![React](https://img.shields.io/badge/React-18+-61DAFB?logo=react&logoColor=000&style=for-the-badge)
