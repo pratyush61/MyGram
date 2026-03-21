@@ -1,0 +1,14 @@
+@import "tailwindcss";
+
+body {
+  @apply bg-white text-black dark:bg-black dark:text-white;
+}
+
+.scroll-hide::-webkit-scrollbar {
+  display: none;
+}
+
+.scroll-hide {
+  -ms-overflow-style: none;
+  scrollbar-width: none; 
+}
